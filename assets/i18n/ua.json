@@ -45,5 +45,9 @@
   "welcome": "Вітаємо на платформі Majom",
   "username": "Ім'я користувача",
   "password": "Пароль",
-  "create board": "Створити нову дошку"
+  "create board": "Створити нову дошку",
+  "habits": "Звички",
+  "projects": "Проекти",
+  "challenges": "Челенджі",
+  "goals": "Цілі"
 }

@@ -23,7 +23,7 @@
   "low": "Low",
   "lowest": "Lowest",
   "priorities": {
-    "hints" : {
+    "hints": {
       "highest": "Immediate action required; top priority.",
       "high": "Urgent; prioritize and allocate resources.",
       "medium": "Balance importance with regular workflow.",
@@ -45,5 +45,9 @@
   "welcome": "Welcome to the Majom Platform",
   "username": "Username",
   "password": "Password",
-  "create board": "Create new board"
+  "create board": "Create new board",
+  "habits": "Habits",
+  "projects": "Projects",
+  "challenges": "Challenges",
+  "goals": "Goals"
 }
