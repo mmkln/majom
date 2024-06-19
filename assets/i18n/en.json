@@ -35,6 +35,7 @@
   "status overview": "Status overview",
   "weekly report": "Weekly report",
   "tags report": "Tags summary",
+  "habits report": "Habits summary",
   "settings": "Settings",
   "profile": "Profile",
   "sign out": "Sign out",
@@ -49,5 +50,9 @@
   "habits": "Habits",
   "projects": "Projects",
   "challenges": "Challenges",
-  "goals": "Goals"
+  "goals": "Goals",
+  "create task": "Create tasks",
+  "create habit": "Create habit",
+  "create challenge": "Create challenge",
+  "create goal": "Create goal"
 }

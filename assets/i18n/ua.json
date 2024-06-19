@@ -35,6 +35,7 @@
   "status overview": "Огляд статусу",
   "weekly report": "Тижневий огляд",
   "tags report": "Огляд за тегами",
+  "habits report": "Огляд звичок",
   "settings": "Налаштування",
   "profile": "Профіль",
   "sign out": "Вийти",
@@ -49,5 +50,9 @@
   "habits": "Звички",
   "projects": "Проекти",
   "challenges": "Челенджі",
-  "goals": "Цілі"
+  "goals": "Цілі",
+  "create task": "Створити Задачу",
+  "create habit": "Створити Звичку",
+  "create challenge": "Створити Челендж",
+  "create goal": "Створити Ціль"
 }
