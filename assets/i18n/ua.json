@@ -51,8 +51,18 @@
   "projects": "Проекти",
   "challenges": "Челенджі",
   "goals": "Цілі",
+  "questions": "Питання",
+  "events": "Події",
   "create task": "Створити Задачу",
   "create habit": "Створити Звичку",
   "create challenge": "Створити Челендж",
-  "create goal": "Створити Ціль"
+  "create goal": "Створити Ціль",
+  "create event": "Створити Подію",
+  "account": "Обліковий запис",
+  "delete your account": "Видалити обліковий запис",
+  "delete account message": "Після видалення вашого облікового запису повернути його буде неможливо. Будь ласка, переконайтеся у своєму рішенні.",
+  "change password": "Змінити пароль",
+  "change password message": "Поки нічо",
+  "update password": "Оновити пароль",
+  "hide": "Приховати"
 }

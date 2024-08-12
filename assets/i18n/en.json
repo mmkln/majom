@@ -51,8 +51,18 @@
   "projects": "Projects",
   "challenges": "Challenges",
   "goals": "Goals",
-  "create task": "Create tasks",
-  "create habit": "Create habit",
-  "create challenge": "Create challenge",
-  "create goal": "Create goal"
+  "questions": "Questions",
+  "events": "Events",
+  "create task": "Create Task",
+  "create habit": "Create Habit",
+  "create challenge": "Create Challenge",
+  "create goal": "Create Goal",
+  "create event": "Create Event",
+  "account": "Account",
+  "delete your account": "Delete your account",
+  "delete account message": "Once you delete your account, there is no going back. Please be certain.",
+  "change password": "Change password",
+  "change password message": "Dummy text",
+  "update password": "Update password",
+  "hide": "Hide"
 }
