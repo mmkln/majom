@@ -61,6 +61,7 @@
   "create goal": "Create Goal",
   "create event": "Create Event",
   "create story": "Create Story",
+  "create subtask": "Create Subtask",
   "account": "Account",
   "delete your account": "Delete your account",
   "delete account message": "Once you delete your account, there is no going back. Please be certain.",
@@ -74,5 +75,8 @@
   "flow": "Flow",
   "calendar": "Calendar",
   "boards": "Boards",
-  "board": "Board"
+  "board": "Board",
+  "list": "List",
+  "described": "Described",
+  "completed": "Completed"
 }
