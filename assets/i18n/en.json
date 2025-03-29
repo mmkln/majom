@@ -79,5 +79,11 @@
   "list": "List",
   "described": "Described",
   "completed": "Completed",
-  "life wheel": "Balance Wheel"
+  "life wheel": "Balance Wheel",
+  "user_restore": {
+    "title": "Account Restoration",
+    "description": "Your account has been marked for deletion. You can restore it within {{days}} days. If you change your mind, click the button below to restore your account.",
+    "button": "Restore Account",
+    "return_to_login": "Return to Login"
+  }
 }
