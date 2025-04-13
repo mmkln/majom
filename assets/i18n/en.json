@@ -62,6 +62,7 @@
   "create event": "Create Event",
   "create story": "Create Story",
   "create subtask": "Create Subtask",
+  "clone task": "Clone task",
   "account": "Account",
   "delete your account": "Delete your account",
   "delete account message": "Once you delete your account, there is no going back. Please be certain.",
